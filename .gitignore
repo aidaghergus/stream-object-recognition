@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Fisiere mari — video, modele AI, rezultate
+*.mp4
+*.avi
+*.mov
+*.pt
+*.engine
+*.onnx
+raport_*.csv
+.idea/
